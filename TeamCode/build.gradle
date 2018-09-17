@@ -17,7 +17,7 @@ apply from: '../build.common.gradle'
 
 android {
     sourceSets {
-        main.java.srcDirs += '../../ares_rvr_rk/src/com/goacmerobotics/rvr_rck'
+        main.java.srcDirs += '../../ares-rvr-rk/src'
     }
 }
 
