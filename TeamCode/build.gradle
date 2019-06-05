@@ -21,3 +21,8 @@ android {
     }
 }
 
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
